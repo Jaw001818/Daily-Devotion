@@ -1,0 +1,6 @@
+{
+  "name": "Daily Bible Devotion",
+  "description": "Araw-araw na Debosyon — Meaningful Bible devotional stories, daily verses, offline reading, and push reminders in Filipino, Taglish, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
